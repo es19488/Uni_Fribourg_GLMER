@@ -1,4 +1,4 @@
-# Uni_Fribourg_GLMER Welcome Email
+# Welcome to the University of Fribourg's GLMER Workshop
 
 Dear All,
 I hope this message finds you well. I am thrilled to reach out to you regarding the upcoming "Mixed Effects Modelling Workshop in R" scheduled on 28 February and 6 March. My name is Ehsan Solaimani, and I will be facilitating this workshop.
