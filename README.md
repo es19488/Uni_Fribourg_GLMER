@@ -3,7 +3,7 @@
 Dear All,
 I hope this message finds you well. I am thrilled to reach out to you regarding the upcoming "Mixed Effects Modelling Workshop in R" scheduled on 28 February and 6 March. My name is Ehsan Solaimani, and I will be facilitating this workshop.
 
-Above, you'll find the workshop materials. Please click on '<> code' -> 'Download ZIP'. Once downloaded, unzip “Uni_Fribourg_GLMER-main.zip” -> unzip "GLMER_Workshop" to access the materials. The contents include:
+Above, you'll find the workshop materials. Please click on '<> code' -> 'Download ZIP'. Once downloaded, unzip “Uni_Fribourg_GLMER-main.zip” -> unzip "GLMER_Workshop" to access the materials. To see a video tutorial of how to access the files, click on 'WATCH_ME.webm' -> 'view raw'. The contents include:
 
 
 • Slides: Find the presentation slides in mixed_effects_modelling.html.
